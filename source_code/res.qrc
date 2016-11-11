@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="GreenDot">res/Green Dot.png</file>
+        <file alias="RedDot">res/Red Dot.png</file>
+        <file alias="YellowDot">res/Yello Dot.png</file>
+        <file alias="NewGameIcon">res/New Game Icon.png</file>
+        <file alias="ClearIcon">res/Clear Icon.png</file>
+        <file alias="HintIcon">res/Hint Icon.png</file>
+        <file alias="CheckAnsIcon">res/Check Ans Icon.png</file>
+        <file alias="PauseIcon">res/Pause Icon.png</file>
+        <file alias="EyeOnIcon">res/EyeOff Icon.png</file>
+        <file alias="EyeOffIcon">res/EyeOn Icon.png</file>
+        <file alias="AboutIcon">res/About Icon.png</file>
+        <file alias="HelpIcon">res/Help Icon.png</file>
+        <file alias="PauseIcon2">res/Pause Icon2.png</file>
+        <file>res/helpdoc/image1.png</file>
+        <file>res/helpdoc/image2.png</file>
+        <file>res/helpdoc/image3.png</file>
+        <file alias="balloon">res/balloon.png</file>
+        <file alias="bingo">res/bingo.png</file>
+        <file alias="failed">res/failed.png</file>
+        <file alias="sudoku">res/sudoku.png</file>
+        <file alias="about">res/about.png</file>
+        <file>res/play.png</file>
+    </qresource>
+</RCC>
